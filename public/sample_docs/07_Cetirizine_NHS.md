@@ -1,5 +1,5 @@
 # Cetirizine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 10 March 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About cetirizine
 Cetirizine is an antihistamine medicine that helps relieve symptoms of allergies such as hay fever, pet allergies, dust allergies, and hives. It blocks histamine receptors in the body.

@@ -1,5 +1,5 @@
 # Amlodipine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 19 September 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About amlodipine
 Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension) and prevent angina chest pain. Lowering blood pressure reduces the risk of strokes and heart attacks.

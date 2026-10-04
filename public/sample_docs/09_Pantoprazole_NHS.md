@@ -1,5 +1,5 @@
 # Pantoprazole
-Source: NHS UK | Document type: leaflet | Page last reviewed: 03 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About pantoprazole
 Pantoprazole is a proton pump inhibitor that decreases stomach acid production. It is prescribed for gastroesophageal reflux disease (GERD), reflux oesophagitis, and to prevent NSAID-induced ulcers.

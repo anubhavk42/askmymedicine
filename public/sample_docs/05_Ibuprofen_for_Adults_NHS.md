@@ -1,5 +1,5 @@
 # Ibuprofen for Adults
-Source: NHS UK | Document type: leaflet | Page last reviewed: 18 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About ibuprofen
 Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID). It is used to relieve aches and pains including headaches, backache, toothache, period pain, and arthritis. It also reduces inflammation and fever.

@@ -1,5 +1,5 @@
 # Ferrous Fumarate
-Source: NHS UK | Document type: leaflet | Page last reviewed: 29 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About ferrous fumarate
 Ferrous fumarate is an iron supplement used to treat or prevent iron-deficiency anaemia. It helps your body produce healthy red blood cells that transport oxygen.

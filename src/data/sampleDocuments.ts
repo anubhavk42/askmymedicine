@@ -13,11 +13,11 @@ export const SAMPLE_DOCUMENTS: SampleDoc[] = [
     fileName: '01_Paracetamol_for_Adults_NHS.md',
     medicineName: 'Paracetamol',
     documentType: 'leaflet',
-    pageLastReviewed: '12 January 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Paracetamol for Adults
-Source: NHS UK | Document type: leaflet | Page last reviewed: 12 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About paracetamol
 Paracetamol is a common painkiller used to treat aches and pain. It can also be used to reduce a high temperature or fever. It is available as tablets, capsules, or syrup, and is safe for most adults when taken at the recommended dose.
@@ -38,11 +38,11 @@ Paracetamol is safe to take with most prescription medicines, including metformi
     fileName: '02_Metformin_NHS.md',
     medicineName: 'Metformin',
     documentType: 'leaflet',
-    pageLastReviewed: '15 October 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Metformin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 15 October 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About metformin
 Metformin is a medicine used to treat type 2 diabetes and to prevent type 2 diabetes if you are at high risk. It helps lower blood sugar levels by improving how your body handles insulin and decreasing sugar production in the liver.
@@ -63,11 +63,11 @@ Very rarely, metformin can cause lactic acidosis, especially if your kidneys are
     fileName: '03_Atorvastatin_NHS.md',
     medicineName: 'Atorvastatin',
     documentType: 'leaflet',
-    pageLastReviewed: '22 November 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Atorvastatin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 22 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About atorvastatin
 Atorvastatin belongs to a group of medicines called statins. It is used to lower cholesterol and reduce the risk of heart disease, angina, heart attacks, and stroke.
@@ -90,9 +90,9 @@ Do not drink large amounts of grapefruit juice while taking atorvastatin. Grapef
     documentType: 'care sheet',
     pageLastReviewed: '20 February 2024',
     country: 'India',
-    source: 'Dr. Sharma Clinic Care Plan',
+    source: 'Fictional sample care sheet (not a real doctor or patient)',
     content: `# Doctor's Care Sheet A: Diabetes and Cholesterol
-Source: Dr. Sharma Clinic | Document type: care sheet | Page last reviewed: 20 February 2024 | Country: India
+Source: Fictional sample care sheet, Dr. Sharma Clinic (not a real doctor or patient) | Document type: care sheet | Page last reviewed: 20 February 2024 | Country: India
 
 ## Patient Treatment Plan
 Patient is under clinical management for Type 2 Diabetes Mellitus and Hypercholesterolemia. Current daily medicines: Metformin 500mg twice daily taken with breakfast and dinner; Atorvastatin 20mg once daily taken at bedtime.
@@ -110,11 +110,11 @@ In India, if you experience sudden dizziness, sweating, blood glucose below 70 m
     fileName: '05_Ibuprofen_for_Adults_NHS.md',
     medicineName: 'Ibuprofen',
     documentType: 'leaflet',
-    pageLastReviewed: '18 January 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Ibuprofen for Adults
-Source: NHS UK | Document type: leaflet | Page last reviewed: 18 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About ibuprofen
 Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID). It is used to relieve aches and pains including headaches, backache, toothache, period pain, and arthritis. It also reduces inflammation and fever.
@@ -135,11 +135,11 @@ Ibuprofen can irritate the stomach lining. Stop taking it and contact a doctor i
     fileName: '06_Aspirin_NHS.md',
     medicineName: 'Aspirin',
     documentType: 'leaflet',
-    pageLastReviewed: '05 February 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Aspirin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 05 February 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About aspirin
 Aspirin is an everyday painkiller and anti-platelet medicine. Low-dose aspirin (75mg daily) is prescribed to prevent blood clots, heart attacks, and strokes. Higher doses (300mg to 600mg) are used for pain and fever.
@@ -157,11 +157,11 @@ Never give aspirin to children under 16 years of age unless prescribed by a spec
     fileName: '07_Cetirizine_NHS.md',
     medicineName: 'Cetirizine',
     documentType: 'leaflet',
-    pageLastReviewed: '10 March 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Cetirizine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 10 March 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About cetirizine
 Cetirizine is an antihistamine medicine that helps relieve symptoms of allergies such as hay fever, pet allergies, dust allergies, and hives. It blocks histamine receptors in the body.
@@ -176,11 +176,11 @@ If you miss a dose, take it as soon as you remember. If it is already the next d
     fileName: '08_Omeprazole_NHS.md',
     medicineName: 'Omeprazole',
     documentType: 'leaflet',
-    pageLastReviewed: '14 December 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Omeprazole
-Source: NHS UK | Document type: leaflet | Page last reviewed: 14 December 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About omeprazole
 Omeprazole is a proton pump inhibitor (PPI). It reduces the amount of acid your stomach produces. It is used to treat indigestion, heartburn, acid reflux, and stomach ulcers.
@@ -195,11 +195,11 @@ If you forget to take a dose, take it as soon as you remember that day. If you r
     fileName: '09_Pantoprazole_NHS.md',
     medicineName: 'Pantoprazole',
     documentType: 'leaflet',
-    pageLastReviewed: '03 November 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Pantoprazole
-Source: NHS UK | Document type: leaflet | Page last reviewed: 03 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About pantoprazole
 Pantoprazole is a proton pump inhibitor that decreases stomach acid production. It is prescribed for gastroesophageal reflux disease (GERD), reflux oesophagitis, and to prevent NSAID-induced ulcers.
@@ -214,11 +214,11 @@ Take the missed dose as soon as you remember, unless it is time for the next sch
     fileName: '10_Amlodipine_NHS.md',
     medicineName: 'Amlodipine',
     documentType: 'leaflet',
-    pageLastReviewed: '19 September 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Amlodipine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 19 September 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About amlodipine
 Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension) and prevent angina chest pain. Lowering blood pressure reduces the risk of strokes and heart attacks.
@@ -233,11 +233,11 @@ If you forget to take a tablet, take it as soon as you remember that day. If you
     fileName: '11_Losartan_NHS.md',
     medicineName: 'Losartan',
     documentType: 'leaflet',
-    pageLastReviewed: '16 August 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Losartan
-Source: NHS UK | Document type: leaflet | Page last reviewed: 16 August 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About losartan
 Losartan is an angiotensin receptor blocker (ARB) used for high blood pressure and to protect kidney function in patients with type 2 diabetes and kidney disease.
@@ -252,11 +252,11 @@ If you miss a dose, take it as soon as you remember unless it is nearly time for
     fileName: '12_Simvastatin_NHS.md',
     medicineName: 'Simvastatin',
     documentType: 'leaflet',
-    pageLastReviewed: '08 October 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Simvastatin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 08 October 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About simvastatin
 Simvastatin is a statin medicine that lowers low-density lipoprotein (bad cholesterol) and triglycerides in your blood, helping prevent cardiovascular events.
@@ -271,11 +271,11 @@ If you forget to take your tablet at night, leave out the missed dose and take y
     fileName: '13_Levothyroxine_NHS.md',
     medicineName: 'Levothyroxine',
     documentType: 'leaflet',
-    pageLastReviewed: '11 January 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Levothyroxine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 11 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About levothyroxine
 Levothyroxine is a synthetic thyroid hormone used to treat an underactive thyroid gland (hypothyroidism). It replaces the thyroxine hormone your thyroid cannot make.
@@ -293,11 +293,11 @@ If you forget to take a dose, take it as soon as you remember, unless it is almo
     fileName: '14_Amoxicillin_NHS.md',
     medicineName: 'Amoxicillin',
     documentType: 'leaflet',
-    pageLastReviewed: '02 February 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Amoxicillin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 02 February 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About amoxicillin
 Amoxicillin is a penicillin antibiotic used to treat bacterial infections such as chest infections, dental abscesses, and urinary tract infections. It does not treat viral infections like colds or flu.
@@ -312,11 +312,11 @@ Take the missed dose as soon as you remember, unless it is nearly time for your 
     fileName: '15_Lactulose_NHS.md',
     medicineName: 'Lactulose',
     documentType: 'leaflet',
-    pageLastReviewed: '07 September 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Lactulose
-Source: NHS UK | Document type: leaflet | Page last reviewed: 07 September 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About lactulose
 Lactulose is a sweet liquid laxative used to treat constipation. It works by drawing water into the bowel to soften stools and make them easier to pass. It can take up to 48 hours to work.
@@ -331,11 +331,11 @@ If you forget a dose of lactulose, take it when you remember, or skip it if it i
     fileName: '16_Folic_Acid_NHS.md',
     medicineName: 'Folic Acid',
     documentType: 'leaflet',
-    pageLastReviewed: '14 January 2024',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Folic Acid
-Source: NHS UK | Document type: leaflet | Page last reviewed: 14 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About folic acid
 Folic acid is a synthetic version of vitamin B9 (folate). It is essential for making red blood cells and preventing neural tube defects in early pregnancy.
@@ -350,11 +350,11 @@ Take the missed tablet as soon as you remember, or skip it if it is the followin
     fileName: '17_Ferrous_Fumarate_NHS.md',
     medicineName: 'Ferrous Fumarate',
     documentType: 'leaflet',
-    pageLastReviewed: '29 November 2023',
+    pageLastReviewed: 'not verified (adapted test copy)',
     country: 'UK',
-    source: 'NHS UK',
+    source: 'Adapted from the NHS website (nhs.uk)',
     content: `# Ferrous Fumarate
-Source: NHS UK | Document type: leaflet | Page last reviewed: 29 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About ferrous fumarate
 Ferrous fumarate is an iron supplement used to treat or prevent iron-deficiency anaemia. It helps your body produce healthy red blood cells that transport oxygen.
@@ -374,9 +374,9 @@ If you miss a dose, take it as soon as you remember, unless your next dose is du
     documentType: 'care sheet',
     pageLastReviewed: '25 February 2024',
     country: 'India',
-    source: 'Dr. Sharma Clinic Care Plan',
+    source: 'Fictional sample care sheet (not a real doctor or patient)',
     content: `# Doctor's Care Sheet B: Blood Pressure and Thyroid
-Source: Dr. Sharma Clinic | Document type: care sheet | Page last reviewed: 25 February 2024 | Country: India
+Source: Fictional sample care sheet, Dr. Sharma Clinic (not a real doctor or patient) | Document type: care sheet | Page last reviewed: 25 February 2024 | Country: India
 
 ## Patient Prescriptions and Plan
 Patient is diagnosed with primary hypertension and hypothyroidism. Prescribed regimen: Amlodipine 5mg once daily every morning; Levothyroxine 50mcg once daily every morning.

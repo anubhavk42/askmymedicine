@@ -1,5 +1,5 @@
 # Lactulose
-Source: NHS UK | Document type: leaflet | Page last reviewed: 07 September 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About lactulose
 Lactulose is a sweet liquid laxative used to treat constipation. It works by drawing water into the bowel to soften stools and make them easier to pass. It can take up to 48 hours to work.

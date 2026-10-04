@@ -1,5 +1,5 @@
 # Doctor's Care Sheet A: Diabetes and Cholesterol
-Source: Dr. Sharma Clinic | Document type: care sheet | Page last reviewed: 20 February 2024 | Country: India
+Source: Fictional sample care sheet, Dr. Sharma Clinic (not a real doctor or patient) | Document type: care sheet | Page last reviewed: 20 February 2024 | Country: India
 
 ## Patient Treatment Plan
 Patient is under clinical management for Type 2 Diabetes Mellitus and Hypercholesterolemia. Current daily medicines: Metformin 500mg twice daily taken with breakfast and dinner; Atorvastatin 20mg once daily taken at bedtime.

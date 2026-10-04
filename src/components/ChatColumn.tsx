@@ -171,7 +171,7 @@ export const ChatColumn: React.FC<ChatColumnProps> = ({
               Please add your medicine documents first
             </h3>
             <p className="text-xs sm:text-sm text-gray-500 mt-1.5 mb-6 leading-relaxed">
-              Upload your doctor's care sheet or patient information leaflets to ask verified questions.
+              Upload your doctor's care sheet or patient information leaflets to ask questions.
             </p>
             {onGoToDocuments && (
               <button
@@ -189,9 +189,9 @@ export const ChatColumn: React.FC<ChatColumnProps> = ({
             <div className="w-12 h-12 rounded-2xl bg-teal-100 text-teal-800 flex items-center justify-center mx-auto mb-3 shadow-xs">
               <Bot className="w-6 h-6" />
             </div>
-            <h3 className="text-base font-bold text-gray-900">Ask clinical medicine questions</h3>
+            <h3 className="text-base font-bold text-gray-900">Ask medicine questions</h3>
             <p className="text-xs sm:text-sm text-gray-500 mt-1 mb-6">
-              Ask about timing, missed doses, interactions, or care sheets. Answers are strictly extracted from your verified documents.
+              Ask about timing, missed doses, interactions, or care sheets. Answers come only from your uploaded documents.
             </p>
 
             {/* Example Question Chips */}
@@ -420,7 +420,7 @@ export const ChatColumn: React.FC<ChatColumnProps> = ({
                                 </>
                               ) : (
                                 <span className={`text-gray-500 ${largeText ? 'text-[20px]' : 'text-xs'}`}>
-                                  Source: Verified documents
+                                  Source: Uploaded documents
                                 </span>
                               )}
 
@@ -607,7 +607,7 @@ export const ChatColumn: React.FC<ChatColumnProps> = ({
           <div className="flex items-center gap-1.5">
             <HelpCircle className="w-3.5 h-3.5 text-amber-700 shrink-0" />
             <span className="font-medium">
-              I answer only from the uploaded documents. I am not a doctor.
+              I answer only from the uploaded documents. I am not a doctor. Sample leaflets are adapted from the NHS (UK), so Indian brands and strengths may differ.
             </span>
           </div>
           {messages.length > 0 && (

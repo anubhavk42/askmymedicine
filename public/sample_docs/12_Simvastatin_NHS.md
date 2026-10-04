@@ -1,5 +1,5 @@
 # Simvastatin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 08 October 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About simvastatin
 Simvastatin is a statin medicine that lowers low-density lipoprotein (bad cholesterol) and triglycerides in your blood, helping prevent cardiovascular events.

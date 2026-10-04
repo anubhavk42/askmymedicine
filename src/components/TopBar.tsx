@@ -59,7 +59,7 @@ export const TopBar: React.FC<TopBarProps> = ({
               </span>
             </div>
             <p className="text-xs text-gray-500 hidden sm:block">
-              Patient RAG Verification for Everyday Medicines & Care Sheets (India)
+              Patient RAG test bench · NHS (UK) leaflets + sample Indian care sheets
             </p>
           </div>
         </div>

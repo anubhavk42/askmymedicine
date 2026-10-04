@@ -1,5 +1,5 @@
 # Metformin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 15 October 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About metformin
 Metformin is a medicine used to treat type 2 diabetes and to prevent type 2 diabetes if you are at high risk. It helps lower blood sugar levels by improving how your body handles insulin and decreasing sugar production in the liver.

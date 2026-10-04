@@ -1,5 +1,5 @@
 # Amoxicillin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 02 February 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About amoxicillin
 Amoxicillin is a penicillin antibiotic used to treat bacterial infections such as chest infections, dental abscesses, and urinary tract infections. It does not treat viral infections like colds or flu.

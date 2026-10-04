@@ -1,5 +1,5 @@
 # Doctor's Care Sheet B: Blood Pressure and Thyroid
-Source: Dr. Sharma Clinic | Document type: care sheet | Page last reviewed: 25 February 2024 | Country: India
+Source: Fictional sample care sheet, Dr. Sharma Clinic (not a real doctor or patient) | Document type: care sheet | Page last reviewed: 25 February 2024 | Country: India
 
 ## Patient Prescriptions and Plan
 Patient is diagnosed with primary hypertension and hypothyroidism. Prescribed regimen: Amlodipine 5mg once daily every morning; Levothyroxine 50mcg once daily every morning.

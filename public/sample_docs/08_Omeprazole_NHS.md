@@ -1,5 +1,5 @@
 # Omeprazole
-Source: NHS UK | Document type: leaflet | Page last reviewed: 14 December 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About omeprazole
 Omeprazole is a proton pump inhibitor (PPI). It reduces the amount of acid your stomach produces. It is used to treat indigestion, heartburn, acid reflux, and stomach ulcers.

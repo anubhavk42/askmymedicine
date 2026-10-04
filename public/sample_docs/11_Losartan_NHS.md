@@ -1,5 +1,5 @@
 # Losartan
-Source: NHS UK | Document type: leaflet | Page last reviewed: 16 August 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About losartan
 Losartan is an angiotensin receptor blocker (ARB) used for high blood pressure and to protect kidney function in patients with type 2 diabetes and kidney disease.

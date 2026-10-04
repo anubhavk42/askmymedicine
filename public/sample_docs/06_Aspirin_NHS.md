@@ -1,5 +1,5 @@
 # Aspirin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 05 February 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About aspirin
 Aspirin is an everyday painkiller and anti-platelet medicine. Low-dose aspirin (75mg daily) is prescribed to prevent blood clots, heart attacks, and strokes. Higher doses (300mg to 600mg) are used for pain and fever.

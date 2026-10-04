@@ -1,5 +1,5 @@
 # Levothyroxine
-Source: NHS UK | Document type: leaflet | Page last reviewed: 11 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About levothyroxine
 Levothyroxine is a synthetic thyroid hormone used to treat an underactive thyroid gland (hypothyroidism). It replaces the thyroxine hormone your thyroid cannot make.

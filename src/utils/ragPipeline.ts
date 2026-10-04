@@ -306,11 +306,11 @@ export function extractMedicinesFromQuery(query: string, allMedicineNames: strin
     amlodipine: ['amlodipine', 'norvasc', 'amlong'],
     losartan: ['losartan', 'cozaar', 'losacar'],
     simvastatin: ['simvastatin', 'zocor'],
-    levothyroxine: ['levothyroxine', 'thyronorm', 'eltroxin', 'synthroid', 'thyroid'],
-    amoxicillin: ['amoxicillin', 'amoxil', 'augmentin', 'antibiotic'],
+    levothyroxine: ['levothyroxine', 'thyronorm', 'eltroxin', 'synthroid'],
+    amoxicillin: ['amoxicillin', 'amoxil'],
     lactulose: ['lactulose', 'duphalac'],
     'folic acid': ['folic acid', 'folate', 'b9'],
-    'ferrous fumarate': ['ferrous fumarate', 'iron', 'ferrous', 'haemoglobin'],
+    'ferrous fumarate': ['ferrous fumarate', 'iron', 'ferrous'],
     azithromycin: ['azithromycin', 'azithral', 'zithromax'],
   };
 

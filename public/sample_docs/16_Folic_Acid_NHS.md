@@ -1,5 +1,5 @@
 # Folic Acid
-Source: NHS UK | Document type: leaflet | Page last reviewed: 14 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About folic acid
 Folic acid is a synthetic version of vitamin B9 (folate). It is essential for making red blood cells and preventing neural tube defects in early pregnancy.

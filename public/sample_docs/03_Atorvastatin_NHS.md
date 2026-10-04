@@ -1,5 +1,5 @@
 # Atorvastatin
-Source: NHS UK | Document type: leaflet | Page last reviewed: 22 November 2023 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About atorvastatin
 Atorvastatin belongs to a group of medicines called statins. It is used to lower cholesterol and reduce the risk of heart disease, angina, heart attacks, and stroke.

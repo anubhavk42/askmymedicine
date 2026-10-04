@@ -1,5 +1,5 @@
 # Paracetamol for Adults
-Source: NHS UK | Document type: leaflet | Page last reviewed: 12 January 2024 | Country: UK
+Source: Adapted from the NHS website (nhs.uk), not official NHS text | Document type: leaflet | Page last reviewed: not verified (adapted test copy) | Country: UK
 
 ## About paracetamol
 Paracetamol is a common painkiller used to treat aches and pain. It can also be used to reduce a high temperature or fever. It is available as tablets, capsules, or syrup, and is safe for most adults when taken at the recommended dose.
