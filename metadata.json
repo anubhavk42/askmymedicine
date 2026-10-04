@@ -1,0 +1,7 @@
+{
+  "name": "AskMyMedicine",
+  "description": "Healthcare RAG test bench for everyday medicines and doctor care sheets in India, with transparent retrieval inspection, similarity scoring, and safety refusals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
